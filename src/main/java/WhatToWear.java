@@ -3,6 +3,6 @@ public class WhatToWear {
 
 // put code in here
 
-        
+
     }
 }
